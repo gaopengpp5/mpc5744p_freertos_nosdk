@@ -8,6 +8,6 @@ https://www.nxp.com/part/DEVKIT-MPC5744P
 IDE:  S32 Design Studio for Power Architecture Version 2017.R1
 https://www.nxp.com/design/software/embedded-software/s32-design-studio-ide:S32-DESIGN-STUDIO-IDE
 
-There is a  demo code of mpc5744p_freertos with SDK distributed with S32 Design Studio.
+Reference from the demo code of mpc5744p_freertos with SDK distributed with S32 Design Studio.
  
 
